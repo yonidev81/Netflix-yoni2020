@@ -32,8 +32,7 @@ object-fit: cover;
 .film:hover {
     transition-property: all;
     transition-duration: 1s;
-    transition-timing-function: ease-in;
-    transition-delay: 0.5s;
+    transition-timing-function: ease;
     transform: scale(1.2);
     height: 125px; 
     width: 220px; 
